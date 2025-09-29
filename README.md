@@ -1,8 +1,8 @@
 # Parking Optimization Project
-**Optimization of multi-level automated parking systems using heuristic algorithms (A* search and simulated annealing).**
+**Optimization of multi-level automated parking systems using heuristic algorithms (A\* search and simulated annealing).**
 
 ## Overview
-This repository contains the source code of the **Parking Optimization Project**.
+This repository contains the source code of the **Parking Optimization Project**, developed in 2023 as part of an **academic project**.
 The objective is to model and optimize vehicle placement in automated multi-level parking systems, in order to minimize the **retrieval cost** (number of moves required to extract a car).
 
 ## Author
@@ -10,8 +10,7 @@ The objective is to model and optimize vehicle placement in automated multi-leve
 
 ## Repository structure
 - `scripts/` : Python scripts implementing the parking model and optimization algorithms.
-- `results/` : outputs from experiments (logs, plots, benchmarks).
-- `docs/` : reports and presentations related to the project.
+- `docs/` : presentations related to the project.
 
 ## Details of directories and scripts
 
